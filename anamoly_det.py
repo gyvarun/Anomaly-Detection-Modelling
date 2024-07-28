@@ -59,3 +59,6 @@ if st.button(":red[**Predict**]"):
         st.error(f"Error: {str(e)}")
 
 
+
+
+
